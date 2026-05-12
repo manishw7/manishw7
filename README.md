@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello there, I am Manish Wagle 👋
 
-<!--
-**manishw7/manishw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Researcher | B.Sc. CSIT Final Year @ Amrit Campus**
 
-Here are some ideas to get you started:
+I am a dedicated researcher and fast learner focused on pushing the boundaries of Computer Vision and Natural Language Processing. Currently completing my final year at Amrit Campus, I specialize in building efficient, scalable AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Research & Expertise
+I am actively exploring the intersections of Deep Learning and real-world data digitization. Feel free to ask me about:
+- **Computer Vision (CV):** OCR, Document Intelligence, and Vision Transformers.
+- **Natural Language Processing (NLP):** Sequence-to-sequence models and Devanagari script analysis.
+- **Deep Learning (DL):** Model optimization and fine-tuning architectures.
+
+### 🛠️ Technical Stack
+- **Languages:** Python, C++
+- **Frameworks/Tools:** PyTorch, Hugging Face, OpenCV, Scikit-learn
+- **Platforms:** Kaggle (Model Training & Notebooks), Git, Linux
+
+### 📊 GitHub Ecosystem
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+### 🔗 Connect With Me
+- **Portfolio Repository:** [View My Work Here](https://www.waglemanish.com.np)
+- **Professional:** [LinkedIn](https://www.linkedin.com/in/manish-wagle-3b417b246/)
+- **Research Hub:** [Kaggle Profile](https://www.kaggle.com/manishwagle)
+- **Direct Mail:** [contact.manishwagle@gmail.com](mailto:contact.manishwagle@gmail.com)
+
+*"Fast learner by nature, researcher by choice."*
