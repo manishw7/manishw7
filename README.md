@@ -17,9 +17,15 @@ I am actively exploring the intersections of Deep Learning and real-world data d
 - **Frameworks/Tools:** PyTorch, Hugging Face, OpenCV, Scikit-learn
 - **Platforms:** Kaggle (Model Training & Notebooks), Git, Linux
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### 📊 GitHub Ecosystem
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishw7&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishw7&layout=compact&theme=tokyonight)
 
 ### 🔗 Connect With Me
 - **Portfolio Repository:** [View My Work Here](https://www.waglemanish.com.np)
